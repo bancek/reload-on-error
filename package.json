@@ -1,0 +1,22 @@
+{
+  "name": "reload-on-error",
+  "version": "0.0.1",
+  "description": "Reload browser location when called",
+  "homepage": "https://github.com/bancek/reload-on-error",
+  "author": {
+    "name": "Luka Zakrajšek",
+    "email": "luka@bancek.net",
+    "url": ""
+  },
+  "typings": "./index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "browser"
+  ],
+  "repository": "bancek/reload-on-error",
+  "license": "MIT"
+}
